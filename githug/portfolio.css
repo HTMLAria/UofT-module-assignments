@@ -1,0 +1,27 @@
+.navbar{
+   background-color: black; 
+    display: flex;
+justify-content: space-evenly;
+padding: 10px 0;
+}
+.navbar a{
+    color: white;
+    padding: 10px 20px;
+    font-weight: bold;
+}
+#Aria{
+    font-size: 80px;  
+    padding: 70px; 
+    justify-content: center;
+}
+.intro{
+    font-size: 40px;
+    padding: 70px;
+    margin: 10px;
+}
+.aria-bakh{
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
